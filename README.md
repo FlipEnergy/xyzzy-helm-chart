@@ -1,4 +1,6 @@
+[![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/flipenergy)](https://artifacthub.io/packages/search?repo=flipenergy)
 # Helm chart for deploying Pretend you're Xyzzy to K8s
+**Go to artifact hub for versions.**
 
 Bare bones helm chart for deploying [Pretend you're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) to k8s.
 
