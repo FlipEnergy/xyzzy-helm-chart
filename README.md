@@ -4,7 +4,7 @@
 
 A simple helm chart for deploying [Pretend you're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) to k8s.
 
-see [values.yaml](pretend-youre-xyzzy/values.yaml) for configurations.
+see [values.yaml](values.yaml) for configurations.
 
 Install using Helm v3:
 
