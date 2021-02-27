@@ -2,7 +2,7 @@
 # Helm chart for deploying Pretend you're Xyzzy to K8s
 **Go to artifact hub for versions.**
 
-Bare bones helm chart for deploying [Pretend you're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) to k8s.
+A simple helm chart for deploying [Pretend you're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) to k8s.
 
 see [values.yaml](pretend-youre-xyzzy/values.yaml) for configurations.
 
